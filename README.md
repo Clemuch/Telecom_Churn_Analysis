@@ -1,6 +1,6 @@
 # Telecom_Churn Analysis
 
-## Dataset Overview
+## Project Overview
 This dataset aims to analyze customer behavior and predict churn (whether a customer will discontinue services). Here's a detailed overview:
 
 1. Dataset Structure
@@ -19,4 +19,17 @@ This dataset aims to analyze customer behavior and predict churn (whether a cust
 - Payment Patterns: Columns such as PaymentMethod and PaperlessBilling show how payment behavior correlates with churn.
 
 Will conduct data cleaning and perform exploratory data analysis. The dataset is gotten from kaggle.
+
+## Data Source
+
+The telecom dataset is gotten from [kaggle](https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/input).
+
+## Tools/Framework
+
+
+## Data Cleaning and Preparation
+
+## Exploratory Data Analysis (EDA)
+
+## Predictive Modeling
 
