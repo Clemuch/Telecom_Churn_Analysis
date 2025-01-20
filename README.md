@@ -2,13 +2,13 @@
 
 # Table of Contents
 
-- [Project Overview](project-overview)
-- [Data Source](data-source)
-- [Tools](tools)
-- [Framework](framework)
-- [Data Cleaning and Preparation](data-cleaning-and-preparation)
-- [Exploratory Data Analysis (EDA)](exploratory-data-analysis-(eda))
-- [Predictive Modeling](predictive-modeling)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Framework](#framework)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Predictive Modeling](#predictive-modeling)
 
 
 
