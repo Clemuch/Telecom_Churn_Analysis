@@ -441,7 +441,7 @@ print(metrics.accuracy_score(y_test, prediction_test))
 
 0.8088130774697939
 
-### Support Vecor Machine (SVM)
+### Support Vector Machine (SVM)
 
 ```Python
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=99)
@@ -485,6 +485,9 @@ metrics.accuracy_score(y_test, preds)
 ```
 **Output**
 
+0.8059701492537313
+
+**The SVM (Support Vector Machine) model stands out as the top predictive model, boasting an impressive accuracy rate of 82%.**
 
 
 ## Conclusions, General Insights and Recommendation
