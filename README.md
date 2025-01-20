@@ -1,7 +1,16 @@
 # Telecom_Churn Analysis
 
 # Table of Contents
-[Project Overview](Project Overview)
+
+- [Project Overview](project-overview)
+- [Data Source](data-source)
+- [Tools](tools)
+- [Framework](framework)
+- [Data Cleaning and Preparation](data-cleaning-and-preparation)
+- [Exploratory Data Analysis (EDA)](exploratory-data-analysis-(eda))
+- [Predictive Modeling](predictive-modeling)
+
+
 
 ## Project Overview
 This dataset aims to analyze customer behavior and predict churn (whether a customer will discontinue services). Here's a detailed overview:
